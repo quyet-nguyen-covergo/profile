@@ -1,2 +1,2 @@
 # profile
-- Check signing commit
+- Check signing commit.
